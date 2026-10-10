@@ -56,4 +56,4 @@ Built with **Three.js**.
 
 ## 📜 License
 MIT License.
-**Made for people who still look up at the sky and wonder what's out there. ✦**
+Made for people who still look up at the sky and wonder what's out there.
