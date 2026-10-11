@@ -40,11 +40,11 @@ No framework. No complicated setup. Just open it and explore.
 ## 💻 Run locally
 
 ```bash
-git clone https://github.com/Arthur37/aurelia-solar-system.git
-cd aurelia-solar-system
+https://aurelia-ss.netlify.app/
 ```
 
-Then open `index.html` in your browser.
+copy this link and Then open in your browser.
+After that share your experience on our social media pages.
 
 Some textures and resources are loaded from external sources, so an internet connection may be needed.
 
